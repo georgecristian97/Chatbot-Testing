@@ -17,7 +17,7 @@
 
 :gear:	You need those packages:
 
-pip install nltk
+
 
 pip install git+https://github.com/scikit-learn/scikit-learn
 
@@ -25,17 +25,15 @@ pip install sentence-transformers
 
 pip install pandas
 
-pip install torch==1.6.0 torchvision==0.7.0
-
 pip install colorama
 
 
 
-- First input data vs input Dataset
+- [First input data vs input Dataset](https://github.com/georgecristian97/Chatbot-Testing/blob/main/IvsI.py)
 
-- Input vs output Chat
+- [Input vs output Chat](https://github.com/georgecristian97/Chatbot-Testing/blob/main/IvsOchat.py)
 
-- Input vs output Dataset
+- [Input vs output Dataset](https://github.com/georgecristian97/Chatbot-Testing/blob/main/IvsOdata.py)
 
 
 
