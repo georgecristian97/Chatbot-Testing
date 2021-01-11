@@ -1,0 +1,9 @@
+#Input vs Output semantic analisys chatbot
+#How much does the question and answear relate from BERT perspective
+
+#Input vs Output semantic analisys dataset
+#How much does the question and answear relate from BERT perspective
+
+#Input of Person vs Input dataset
+#Which one of the Input dataset best matches the Input provided
+
