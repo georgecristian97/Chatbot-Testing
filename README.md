@@ -19,6 +19,8 @@
 
 
 
+pip install ntlk
+
 pip install git+https://github.com/scikit-learn/scikit-learn
 
 pip install sentence-transformers
