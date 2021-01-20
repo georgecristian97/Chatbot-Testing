@@ -1,0 +1,49 @@
+=====>attempt to rape
+it is a severe crime and you can complain it on
+0.5906289219856262
+================>touching inappropriately
+it is a severe crime and you can complain it on
+0.4898517429828644
+================>filmed while rape
+it is a crime under cyber crime and you can complain it on
+0.5548853874206543
+================>a person tried to touch me on my body parts without permission
+it is a crime under attempt to rape and you can complain it on
+0.4234481155872345
+================>a group of people raped me
+it is a severe crime and you can complain it on
+0.5543966293334961
+================>domestic voilence
+Domestic violence in India includes any form of violence suffered by a person from a biological relative, but typically is the violence suffered by a woman by male members of her family or relatives.
+0.21917173266410828
+================>what is domestic voilence?
+Domestic violence in India includes any form of violence suffered by a person from a biological relative, but typically is the violence suffered by a woman by male members of her family or relatives.
+0.21917173266410828
+================>my family member beats me
+its a domestic voilence
+0.35695815086364746
+================>home
+the current time is
+0.5917148590087891
+================>who are you?
+i am chatty the chatbot
+0.37879303097724915
+================>what you do?
+i am here to help you about getting knowledge of the crime.
+0.2459995150566101
+================>what should i ask you?
+i can tell you anything about crime.
+0.4457601308822632
+================>ttyl
+ok thanks for talking with me.
+0.5932003259658813
+================>hello,i am xyz
+nice to meet you.
+0.5204057097434998
+================>what's up?
+nothing much you tell
+0.49655675888061523
+================>what is your name?
+chatty the chatbot
+0.38265541195869446
+===========

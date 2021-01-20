@@ -10,14 +10,12 @@ from sklearn.metrics.pairwise import cosine_similarity
 from sentence_transformers import SentenceTransformer
 
 
-f=open('data_Train/all.txt', 'r')
+f=open('data_Train/all1.txt','r')
 doc_part1 = f.readlines()
 f.close()
-f=open('data_Train/normal.txt','r')
-doc_part1 = doc_part1+f.readlines()
-f.close()
 k=1
-x=['0']
+txt = ''
+
 for i in  doc_part1:
     if k%3 == 1:
         documents = [i]
@@ -39,6 +37,12 @@ for i in  doc_part1:
             print(f'Document: {documents_df.iloc[ix]["documents"]}' + '|||' + f'Cosine Similarity : {pairwise_similarities[0][ix]}')
             if pairwise_similarities[0][ix] < 0.6 :
                 print(Fore.RED+'Warning data is not so similar by  BERT Analysis'+Style.RESET_ALL)
+                txt = txt + '=====>' + f'{documents_df.iloc[0]["documents"]}' + f'{documents_df.iloc[ix]["documents"]}' + f'{pairwise_similarities[0][ix]}' + '\n==========='
+
 
     k=k+1
 
+
+f = open ('bertSim.txt','w')
+f.write(txt)
+f.close()
